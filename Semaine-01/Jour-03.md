@@ -2,21 +2,21 @@
 
 ### Jeudi 27/02/2025 :
 
-- [ ] Faire le wargame bandit jusqu'au niveau 5 (anglais)
+- [*] Faire le wargame bandit jusqu'au niveau 5 (anglais)
 
 Seulement si le wargame bandit est au niveau 5 minimum :
 
 #### Git
 
-- [ ] Création de compte + configuration Github
-- [ ] Installation et configuration de Git
-- [ ] Comprendre le versionning
-- [ ] Comprendre le fonctionnement de Git
-  - [ ] Comprendre le staging de Git
-  - [ ] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
-    - [ ] git init
-    - [ ] git add
-    - [ ] git status
+- [*] Création de compte + configuration Github
+- [*] Installation et configuration de Git
+- [*] Comprendre le versionning
+- [*] Comprendre le fonctionnement de Git
+  - [*] Comprendre le staging de Git
+  - [*] Comprendre le fonctionnent et l'utilité des commandes de bases de Git :
+    - [*] git init
+    - [*] git add
+    - [*] git status
     - [ ] git commit
     - [ ] git pull
     - [ ] git push
