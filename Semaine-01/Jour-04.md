@@ -25,5 +25,5 @@
   - [x] Citations
   - [x] Tableaux
   - [x] Liens
-- [ ] Faire le parcours "how-to-markdown" (Nodeschool.io)
+- [x] Faire le parcours "how-to-markdown" (Nodeschool.io)
 - [ ] Rédaction en Markdown du lexique de la promo ainsi que des cheat sheets, travail en groupe (wiki, repos)
