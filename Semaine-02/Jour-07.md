@@ -4,25 +4,25 @@
 
 ### Github CLI et Profil (approfondissement)
 
-- [ ] Découverte approfondie de Github CLI
+- [x] Découverte approfondie de Github CLI
   - [ ] Créer un cheat sheet sur Github CLI (individuel)
-  - [ ] Installation et connexion
-  - [ ] Faire le tour du propriétaire
-  - [ ] Intégration de `gh` dans son workflow
-  - [ ] Finalisation et optimisation de son profile Github
+  - [x] Installation et connexion
+  - [x] Faire le tour du propriétaire
+  - [x] Intégration de `gh` dans son workflow
+  - [] Finalisation et optimisation de son profile Github
 
 ### Configuration et Workflow Git
 
-- [ ] Découverte de LazyGit
-  - [ ] Installation et configuration
+- [x] Découverte de LazyGit
+  - [x] Installation et configuration
   - [ ] Intégration dans son editeur / workflow
 - [ ] Configurer son git de manière avancée :
   - [ ] Editeur par défaut (Nano, Vim, VsCode ou celui que vous voulez)
   - [ ] Différenciateur (par ex : Delta)
   - [ ] Aliases
   - [ ] Comprendre la différence entre config locale, globale et système
-- [ ] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
-- [ ] Savoir travailler avec `git fetch`
+- [x] Choix workflow : Alias ou Lazygit (obligatoire un des deux)
+- [x] Savoir travailler avec `git fetch`
 
 ### IA
 
