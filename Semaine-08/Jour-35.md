@@ -5,21 +5,21 @@
 ### Installation et Configuration de PostgreSQL
 
 - [ ] Préparation de l'environnement
-  - [ ] Téléchargement de PostgreSQL
-  - [ ] Installation du SGBD
-  - [ ] Vérification de l'installation
+  - [x] Téléchargement de PostgreSQL
+  - [x] Installation du SGBD
+  - [x] Vérification de l'installation
 
 - [ ] Configuration initiale
-  - [ ] Paramétrage du service PostgreSQL
-  - [ ] Configuration du port et des connexions
-  - [ ] Gestion du fichier postgresql.conf
-  - [ ] Gestion du fichier pg_hba.conf
-  - [ ] Création du premier utilisateur
-  - [ ] Test de la connexion
+  - [x] Paramétrage du service PostgreSQL
+  - [x] Configuration du port et des connexions
+  - [x] Gestion du fichier postgresql.conf
+  - [x] Gestion du fichier pg_hba.conf
+  - [x] Création du premier utilisateur
+  - [x] Test de la connexion
 
 - [ ] Installation et configuration des outils
   - [ ] pgAdmin 4
-    - [ ] Installation
+    - [x] Installation
     - [ ] Configuration
     - [ ] Première connexion
     - [ ] Tour d'horizon de l'interface
