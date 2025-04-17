@@ -3,23 +3,23 @@
 ## Objectifs du jour
 
 ### Création et manipulation d'une base de données 
-- [ ] Création d'une base de données complète
-  - [ ] Définition du schéma de la base
-  - [ ] Création des tables avec relations
+- [x] Création d'une base de données complète
+  - [x] Définition du schéma de la base
+  - [x] Création des tables avec relations
 
-- [ ] Import de données avec Mockaroo
-  - [ ] Découverte de Mockaroo
-  - [ ] Génération de données de test réalistes
-  - [ ] Import des données via commandes terminal
-  - [ ] Vérification de l'intégrité des données
+- [x] Import de données avec Mockaroo
+  - [x] Découverte de Mockaroo
+  - [x] Génération de données de test réalistes
+  - [x] Import des données via commandes terminal
+  - [x] Vérification de l'intégrité des données
 
 - [ ] Sauvegarde et restauration
-  - [ ] Sauvegarde avec pg_dump
-    - [ ] Options et formats disponibles
-    - [ ] Sauvegarde complète vs partielle
-  - [ ] Restauration d'une base de données
-    - [ ] Utilisation de psql pour la restauration
-    - [ ] Gestion des erreurs lors de la restauration
+  - [x] Sauvegarde avec pg_dump
+    - [x] Options et formats disponibles
+    - [x] Sauvegarde complète vs partielle
+  - [x] Restauration d'une base de données
+    - [x] Utilisation de psql pour la restauration
+    - [x] Gestion des erreurs lors de la restauration
   - [ ] Planification des sauvegardes
 
 ### SQL - Data Control Language (DCL) avec PostgreSQL
