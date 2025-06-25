@@ -12,18 +12,18 @@ Ressource : [Formation GitHub Actions](https://github.com/HachemiH/formation-git
   - [x] Identifier les avantages de la CI/CD
   - [x] Découvrir les principaux outils du marché
 
-- [ ] Découverte de GitHub Actions
-  - [ ] Comprendre ce qu'est GitHub Actions
-  - [ ] Identifier les cas d'usage
-  - [ ] Explorer l'interface GitHub Actions
-  - [ ] Comprendre la facturation et les limites
+- [x] Découverte de GitHub Actions
+  - [x] Comprendre ce qu'est GitHub Actions
+  - [x] Identifier les cas d'usage
+  - [x] Explorer l'interface GitHub Actions
+  - [x] Comprendre la facturation et les limites
 
-- [ ] Composants de base
-  - [ ] Workflows
-  - [ ] Jobs
-  - [ ] Steps
-  - [ ] Actions
-  - [ ] Runners
+- [x] Composants de base
+  - [x] Workflows
+  - [x] Jobs
+  - [x] Steps
+  - [x] Actions
+  - [x] Runners
 
 - [ ] Travaux Pratiques
   - [ ] Explorer le Marketplace GitHub Actions
